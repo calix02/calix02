@@ -37,18 +37,17 @@ I am a developer who bridges the gap between robust backend logic and high-fidel
   <i>"Enterprise-grade management solutions with a focus on speed and clarity."</i>
 </p>
 
-> **Note:** Replace the image URL above with the actual link to your uploaded GIS screenshot in your repository to display it!
-
 ---
 
 ## 📊 Performance Metrics
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=calix02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0B1120&title_color=38BDF8&text_color=94A3B8" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calix02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=94A3B8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=calix02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0B1120&title_color=38BDF8&text_color=94A3B8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calix02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=94A3B8" width="49%" />
 </p>
 
-<br/><br/><br/><br/>
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=calix02&theme=tokyonight&hide_border=true&background=0B1120&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%" alt="GitHub Streak" />
+</p>
 
 ---
 
