@@ -6,14 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=calix02&label=Profile%20views&color=10B981&style=flat-square" alt="Views" />
 </p>
 
-### 🚀 Full-Stack Developer | Creative Technologist | UI/UX Enthusiast
+### 🚀 Full-Stack Web Developer | Data Analyst
 
 ---
 
 ## 💫 About Me
 I am a developer who bridges the gap between robust backend logic and high-fidelity user interfaces. Currently, I'm heavily focused on building **Enterprise-Grade Management Systems** with a focus on clean, dark-mode aesthetics.
 
-- 🔭 I’m currently leading development on **GIS (General Inventory System)**
+- 🔭 I’m currently learning Three js for 3D Web Development**
 - 🌱 Mastering **TypeScript & Advanced Node.js Architecture**
 - 👯 I’m looking to collaborate on **Scalable SaaS Open Source Projects**
 - 💬 Ask me about **React, Tailwind CSS, or IoT Integration**
